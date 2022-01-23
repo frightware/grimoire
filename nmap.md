@@ -14,6 +14,7 @@ nmap -F -sV $m0
 // Many Windows devices are configured like this.
 nmap -Pn -F -sV $m0
 
-// A full port scan excluding the upper dynamic range. Includes all Well-Known and Registered ports.
+// A full port scan excluding the upper dynamic range. 
+// Includes all Well-Known and Registered ports.
 nmap -p-49151 $m0
 ```
