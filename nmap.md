@@ -1,7 +1,7 @@
 # nmap
 ## Network Mapper
 
-Official nmap documentation can be found here. [Link](https://nmap.org/book/man.html)
+Official nmap documentation can be found here. [LINK](https://nmap.org/book/man.html)
 This page is meant to serve as a shorthand for snippets I commonly use.
 
 ### Examples:
