@@ -5,7 +5,7 @@ Official nmap documentation can be found here. [LINK](https://nmap.org/book/man.
 
 This page is meant to serve as a shorthand for snippets I commonly use.
 
-### Examples:
+### Examples
 ```markdown
 // For most cases a simple enumeration can be done as follows.
 nmap -F -sV $m0
