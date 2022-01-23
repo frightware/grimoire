@@ -1,5 +1,16 @@
-layout: page
-title: "nmap"
-permalink: /grimoire/nmap
+# nmap
+### Network Mapper
 
-Hello, World!
+Examples:
+```markdown
+nmap -F -sV $m0
+```
+
+
+```markdown
+nmap -Pn -F -sV $m0
+```
+
+```markdown
+nmap -p-49151 $m0
+```
