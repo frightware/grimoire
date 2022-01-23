@@ -10,7 +10,8 @@ This page is meant to serve as a shorthand for snippets I commonly use.
 // For most cases a simple enumeration can be done as follows.
 nmap -F -sV $m0
 
-// Some hosts may have ICMP disabled. Many Windows devices are configured like this.
+// Some hosts may have ICMP disabled. 
+// Many Windows devices are configured like this.
 nmap -Pn -F -sV $m0
 
 // A full port scan excluding the upper dynamic range. Includes all Well-Known and Registered ports.
